@@ -1,0 +1,37 @@
+.clear{
+  padding:10px;
+  height: 65px;
+  background-color:Teal;
+  }
+#logo img{
+  float: left;
+  font-size: 0;
+  height: 65px;
+}
+nav>ul{
+  float: left;
+  margin-top: auto;
+  }
+nav>ul>li{
+  list-style: none;
+  float: left;
+  list-style: none;
+  width: 150px;
+  height: 65px;
+  line-height: 65px;
+  text-align: center;
+  }
+.game{
+  margin-top:10px;
+  padding:10px;
+  height:inherit;
+  background-color:pink;
+}
+input{
+  margin:inherit;
+}
+.game>img{
+  margin:inherit;
+  background-color:black;
+  padding:10px;
+}
